@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>HomeForm.ui.qml</file>
+        <file>Login.qml</file>
+        <file>LoginForm.ui.qml</file>
+        <file>Category.qml</file>
+        <file>CategoryForm.ui.qml</file>
+        <file>Cart.qml</file>
+        <file>CartForm.ui.qml</file>
+        <file>Register.qml</file>
+        <file>RegisterForm.ui.qml</file>
+        <file>Settings.qml</file>
+        <file>SettingsForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ProductList.qml</file>
+        <file>img/alf.png</file>
+        <file>img/hatter.jpg</file>
+        <file>img/registerform.jpg</file>
+        <file>img/webshop.jpg</file>
+        <file>img/cart.svg</file>
+        <file>img/logout.svg</file>
+        <file>img/settings.svg</file>
+        <file>img/user.svg</file>
+        <file>img/home.svg</file>
+        <file>img/addToCart.svg</file>
+        <file>img/home.jpg</file>
+        <file>img/homeBack.svg</file>
+        <file>CartList.qml</file>
+        <file>Info.qml</file>
+        <file>InfoForm.ui.qml</file>
+        <file>img/info.svg</file>
+        <file>img/cartout.svg</file>
+        <file>img/INFOBACK.svg</file>
+        <file>img/categoryBack.svg</file>
+        <file>img/cartBack.svg</file>
+    </qresource>
+</RCC>
