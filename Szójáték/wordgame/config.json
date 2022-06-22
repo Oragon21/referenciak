@@ -1,0 +1,38 @@
+[
+  {
+    "wrongButtonPush": {
+      "good": 1,
+      "acceptable": 6,
+      "weight": 0.5
+    },
+    "playTime": {
+      "good": 9,
+      "acceptable": 180,
+      "weight": 0.5
+    }
+  },
+  {
+    "wrongButtonPush": {
+      "good": 2,
+      "acceptable": 12,
+      "weight": 0.5
+    },
+    "playTime": {
+      "good": 12,
+      "acceptable": 240,
+      "weight": 0.5
+    }
+  },
+  {
+    "wrongButtonPush": {
+      "good": 3,
+      "acceptable": 18,
+      "weight": 0.5
+    },
+    "playTime": {
+      "good": 18,
+      "acceptable": 360,
+      "weight": 0.5
+    }
+  }
+]

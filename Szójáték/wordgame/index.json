@@ -1,0 +1,12 @@
+
+{
+  "scripts": [
+    "libs/pixi.min.js",
+    "libs/anim.js",
+    "libs/scoreCalculator.js",
+    "libs/resultScreen.js",
+    "src/wordgame.js"
+  ],
+  "stylesheets": ["res/mystyle.css"]
+
+}
