@@ -14,3 +14,7 @@ A virtuális kamera forog a mirascope körül.
 
 
 
+
+
+https://user-images.githubusercontent.com/90961659/175056967-09f60920-1f86-420b-b1e8-345d532744a4.mp4
+
