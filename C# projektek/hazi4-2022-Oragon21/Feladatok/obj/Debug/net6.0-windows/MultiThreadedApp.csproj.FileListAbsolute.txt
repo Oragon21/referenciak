@@ -1,0 +1,17 @@
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\bin\Debug\net6.0-windows\MultiThreadedApp.exe
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\bin\Debug\net6.0-windows\MultiThreadedApp.deps.json
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\bin\Debug\net6.0-windows\MultiThreadedApp.runtimeconfig.json
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\bin\Debug\net6.0-windows\MultiThreadedApp.dll
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\bin\Debug\net6.0-windows\MultiThreadedApp.pdb
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.csproj.AssemblyReference.cache
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.csproj.GenerateResource.cache
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.AssemblyInfoInputs.cache
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.AssemblyInfo.cs
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.dll
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\refint\MultiThreadedApp.dll
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.pdb
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.genruntimeconfig.cache
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\ref\MultiThreadedApp.dll
+C:\Users\Márk\Source\Repos\hazi4-2022-Oragon21\Feladatok\obj\Debug\net6.0-windows\MultiThreadedApp.Form1.resources

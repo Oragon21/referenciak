@@ -1,0 +1,4 @@
+Megalkottam az IShape interfészt, ebben benne van a megadott alakzatoknak minden metódusa amely késõbbiekben kelleni fog.
+Azért használtam interfészt, mivel a C#-ban osztályok öröklõdésénél lehet konfliktus, interfészel viszont kikerülhetem.
+Inicializáláskor lehet beállítani az értékeket, melyet a mainben meg is tettem.
+Minden alakzat úgy származik le ahogy a feladat is kérte.

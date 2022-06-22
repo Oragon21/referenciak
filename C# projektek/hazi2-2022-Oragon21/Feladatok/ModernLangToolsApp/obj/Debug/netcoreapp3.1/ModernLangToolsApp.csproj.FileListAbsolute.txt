@@ -1,0 +1,14 @@
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.exe
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.deps.json
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.runtimeconfig.json
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.runtimeconfig.dev.json
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.dll
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\bin\Debug\netcoreapp3.1\ModernLangToolsApp.pdb
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.csproj.AssemblyReference.cache
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.AssemblyInfoInputs.cache
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.AssemblyInfo.cs
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.dll
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.pdb
+C:\Users\Márk\Source\Repos\hazi2-2022-Oragon21\Feladatok\ModernLangToolsApp\obj\Debug\netcoreapp3.1\ModernLangToolsApp.genruntimeconfig.cache

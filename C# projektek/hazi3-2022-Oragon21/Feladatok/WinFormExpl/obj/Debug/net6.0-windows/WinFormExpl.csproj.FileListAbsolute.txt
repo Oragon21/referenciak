@@ -1,0 +1,36 @@
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.exe
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.deps.json
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.runtimeconfig.json
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.dll
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.pdb
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.AssemblyReference.cache
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.InputDialog.resources
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.MainForm_EFXMIS.resources
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.GenerateResource.cache
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.AssemblyInfoInputs.cache
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.AssemblyInfo.cs
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.dll
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\refint\WinFormExpl.dll
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.pdb
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.genruntimeconfig.cache
+C:\Users\Márk\Source\Repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\ref\WinFormExpl.dll
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.exe
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.deps.json
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.runtimeconfig.json
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.dll
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\Debug\net6.0-windows\WinFormExpl.pdb
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.AssemblyReference.cache
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.InputDialog.resources
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.MainForm_EFXMIS.resources
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.GenerateResource.cache
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.AssemblyInfoInputs.cache
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.AssemblyInfo.cs
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.dll
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\refint\WinFormExpl.dll
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.pdb
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\WinFormExpl.genruntimeconfig.cache
+C:\Users\Márk\Desktop\projektek\referenciak\C# projektek\hazi3-2022-Oragon21\Feladatok\WinFormExpl\obj\Debug\net6.0-windows\ref\WinFormExpl.dll

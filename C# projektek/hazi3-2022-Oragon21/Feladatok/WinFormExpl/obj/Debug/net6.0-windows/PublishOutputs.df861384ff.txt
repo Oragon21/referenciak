@@ -1,0 +1,5 @@
+C:\Users\Márk\source\repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\publish\WinFormExpl.exe
+C:\Users\Márk\source\repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\publish\WinFormExpl.dll
+C:\Users\Márk\source\repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\publish\WinFormExpl.deps.json
+C:\Users\Márk\source\repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\publish\WinFormExpl.runtimeconfig.json
+C:\Users\Márk\source\repos\hazi3-2022-Oragon21\Feladatok\WinFormExpl\bin\publish\WinFormExpl.pdb

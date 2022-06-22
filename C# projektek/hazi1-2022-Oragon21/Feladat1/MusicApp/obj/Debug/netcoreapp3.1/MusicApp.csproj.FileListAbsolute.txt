@@ -1,0 +1,14 @@
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.AssemblyInfoInputs.cache
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.AssemblyInfo.cs
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.exe
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.deps.json
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.runtimeconfig.json
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.runtimeconfig.dev.json
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.dll
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\bin\Debug\netcoreapp3.1\MusicApp.pdb
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.dll
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.pdb
+C:\Users\Márk\source\repos\hazi1-2022-Oragon21\Feladat1\MusicApp\obj\Debug\netcoreapp3.1\MusicApp.genruntimeconfig.cache
